@@ -1,9 +1,9 @@
 # Monte Carlo Simulation to Calculate π
 
-This repository contains a Python implementation of a Monte Carlo simulation to calculate the value of π (pi) with a precision of two decimal places.
+This repository contains a Matlab Live Script implementation of a Monte Carlo simulation to calculate the value of π (pi) with a precision of two decimal places.
 
 <p align="center">
-  <img width="700" src="https://github.com/Amir-M-Vahedi/Pi_Monte_Carlo_Simulation/assets/115154998/1a13e0ec-f974-4574-ad7e-7a18e9dc4b64">
+  <img width="700" src="https://github.com/Amir-M-Vahedi/Pi_Monte_Carlo_Simulation/assets/115154998/22ae5891-c195-4c9a-9cfc-fcd35f4f89f3">
 </p>
 
 ## Project Overview
@@ -35,5 +35,5 @@ where:
 - \( $n_c$ \) is the number of points inside the quarter circle.
 - \( $n$ \) is the total number of points.
 <p align="center">
-  <img width="700" src="https://github.com/Amir-M-Vahedi/Pi_Monte_Carlo_Simulation/assets/115154998/954326b2-270e-496f-b643-a5928a62df2d">
+  <img width="700" src="https://github.com/Amir-M-Vahedi/Pi_Monte_Carlo_Simulation/assets/115154998/9c8ba0aa-8037-47a7-ae6e-44e632e35b3a">
 </p>
